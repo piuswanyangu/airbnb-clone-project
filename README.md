@@ -222,7 +222,7 @@ Scrum Master	Facilitate agile processes, track progress, and resolve blockers.
 
 ---
 
-## ⚙️ Core Features
+## ⚙️ Feature Breakdown
 - **User Authentication:** Signup, login, and role-based access.  
 - **Property Management:** Hosts can create and manage listings.  
 - **Booking System:** Guests can book and manage reservations.  
