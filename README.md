@@ -182,8 +182,7 @@ I designed it with a focus on scalability, security, and clean architecture usin
 
 ---
 
-👥 Project Roles and Responsibilities
-Role	Responsibilities
+👥 Team Roles
 
 Project Manager	Oversees timelines, deliverables, and coordination among team members.
 Frontend Developers	Build UI components, implement responsive layouts, and connect with APIs.
