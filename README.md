@@ -118,6 +118,8 @@ QA/Testers	Test UI functionality, report bugs, and ensure usability standards.
 DevOps Engineers	Manage deployment, CI/CD, and server infrastructure.
 Product Owner	Define requirements, prioritize features, and represent stakeholders.
 Scrum Master	Facilitate agile processes, track progress, and resolve blockers.
+
+
 🧩 UI Component Patterns
 Planned Components
 🧭 Navbar
@@ -180,12 +182,17 @@ I designed it with a focus on scalability, security, and clean architecture usin
 
 ---
 
-## 👨‍💻 My Role
-I’m responsible for developing the **backend**, which includes:
-- Building APIs and managing authentication.
-- Designing database schemas and relationships.
-- Implementing API security measures.
-- Setting up Docker and CI/CD for automation and deployment.
+👥 Project Roles and Responsibilities
+Role	Responsibilities
+
+Project Manager	Oversees timelines, deliverables, and coordination among team members.
+Frontend Developers	Build UI components, implement responsive layouts, and connect with APIs.
+Backend Developers	Develop APIs, manage databases, and handle server-side logic.
+Designers	Create and maintain Figma mockups, design systems, and ensure visual quality.
+QA/Testers	Test UI functionality, report bugs, and ensure usability standards.
+DevOps Engineers	Manage deployment, CI/CD, and server infrastructure.
+Product Owner	Define requirements, prioritize features, and represent stakeholders.
+Scrum Master	Facilitate agile processes, track progress, and resolve blockers.
 
 ---
 
