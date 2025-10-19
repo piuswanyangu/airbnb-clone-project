@@ -109,6 +109,7 @@ Understanding a mockup’s design properties helps ensure pixel-perfect implemen
 
 👥 Project Roles and Responsibilities
 Role	Responsibilities
+
 Project Manager	Oversees timelines, deliverables, and coordination among team members.
 Frontend Developers	Build UI components, implement responsive layouts, and connect with APIs.
 Backend Developers	Develop APIs, manage databases, and handle server-side logic.
